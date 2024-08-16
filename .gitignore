@@ -1,0 +1,7 @@
+__pycache__/
+cache/
+experiments/*
+picard/
+SmBop/
+spider/
+wandb/

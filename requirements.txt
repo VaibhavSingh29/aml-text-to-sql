@@ -1,0 +1,9 @@
+pytorch==1.8.1
+transformers==4.17.0
+rapidfuzz==2.0.5 
+sqlparse==0.4.4
+preprocess
+tenacity==8.0.1
+deepspeed
+anytree==2.8.0
+protobuf==3.20.3
